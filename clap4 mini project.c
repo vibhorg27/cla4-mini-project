@@ -163,7 +163,7 @@ int main()
                 }
         	case 5:
             	system("cls");
-	        	printf("\n\n\n\t\t\tProject made by SIDDHANT ");
+	        	printf("\n\n\n\t\t\tProject made by VIBHOR ");
 	        	printf("\n\n\n\t\t\tExiting");
 	       		for(i = 1 ; i <= 15 ; i++)
             	{
@@ -190,7 +190,7 @@ int main()
 			else if (choice == 2)
 			{
 				system("cls");
-	        	printf("\n\n\n\t\t\tProject made by SIDDHANT ");
+	        	printf("\n\n\n\t\t\tProject made by VIBHOR ");
 	        	printf("\n\n\n\t\t\tExiting");
 	       		for(i = 1 ; i <= 15 ; i++)
             	{
